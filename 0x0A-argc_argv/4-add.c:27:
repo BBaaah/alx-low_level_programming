@@ -1,3 +1,0 @@
-dd.c:11: warning: No description found for parameter or member 'ardb'
-4-add.c:12: warning: Excess function parameter 'argc' description in 'main'
-main
